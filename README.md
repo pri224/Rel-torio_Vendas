@@ -68,7 +68,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ##Receita Total versus Custo Total por País
 
-![Receita Total versus Custo Total por País](receita_vs_custo_pais.png)
+![Receita Total versus Custo Total por País](Grafico_1.PNG)
 
 ## Vendas por Mês
 
