@@ -72,7 +72,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Vendas por Mês
 
-![Vendas por Mês](vendas_por_mes.png)
+![Vendas por Mês](Grafico_4.PNG)
 
 ## Vendas por Categoria
 
@@ -80,7 +80,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Vendas por Gênero
 
-![Vendas por Gênero](vendas_por_genero.png)
+![Vendas por Gênero](Grafico_3.PNG)
 
 Conclusão
 
