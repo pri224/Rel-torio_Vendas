@@ -66,7 +66,7 @@ Após a criação da view VENDAS, os dados foram importados para o Excel utiliza
 
 Abaixo estão algumas imagens do dashboard gerado:
 
-##Receita Total versus Custo Total por País
+## Receita Total versus Custo Total por País
 
 ![Receita Total versus Custo Total por País](Grafico_1.PNG)
 
