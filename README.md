@@ -76,7 +76,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Vendas por Categoria
 
-![Vendas por Categoria](vendas_por_categoria.png)
+![Vendas por Categoria](Grafico_2.PNG)
 
 ## Vendas por Gênero
 
